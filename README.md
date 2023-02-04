@@ -11,5 +11,5 @@
 
 - 📫 If you want to reach me, do it somehow
 
-- If you want to support me [buymeacoffee.com] 
+- 💸 If you want to support me [buymeacoffee.com] 
 [buymeacoffee.com]: https://www.limogang.com/napoje/club-mate-0-5-l/
