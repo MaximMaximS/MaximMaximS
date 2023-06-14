@@ -16,6 +16,6 @@
 
 ## Statz
 
-![MaximMaximS's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaximMaximS&show_icons=true&theme=dark&count_private=true)
+![MaximMaximS's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaximMaximS&show_icons=true&theme=dark&count_private=true&hide_rank=true)
 
 ![Langs](https://api.githubtrends.io/user/svg/MaximMaximS/langs?time_range=one_year&theme=dark) ![Repos](https://api.githubtrends.io/user/svg/MaximMaximS/repos?time_range=one_year&theme=dark)
